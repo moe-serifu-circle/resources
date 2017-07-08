@@ -18,10 +18,13 @@
 		81.25,846.875 87.5,846.875 87.5,843.75 81.25,843.75 81.25,821.875 93.75,821.875 96.875,821.875 96.875,818.75 93.75,818.75 
 		81.25,818.75 81.25,775 100,756.25 100,750 78.125,771.873 78.125,862.5 93.75,878.125 96.875,878.125 	"/>
 </g>
-<g id="Content_Wrap_1_">
+<g id="Content">
 	<g>
 		<rect x="96.875" y="225" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="756.25" height="887.5"/>
 		<rect x="100" y="225" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="750" height="887.5"/>
+	</g>
+	<g id="title_text">
+		<text transform="matrix(1 0 0 1 112.5 325)" font-family="'TimesNewRomanPSMT'" font-size="34">Personal Assistant &amp; Companion</text>
 	</g>
 </g>
 <g id="Footer">
@@ -1631,6 +1634,8 @@ AAAAAAAA4Fv8jwADAB6sLgUnFrbnAAAAAElFTkSuQmCC" transform="matrix(0.24 0 0 0.24 50
 				<use xlink:href="#Screw"  width="10.375" height="10.375" y="-10.375" transform="matrix(1 0 0 -1 830.25 84.375)" overflow="visible"/>
 		</g>
 	</g>
+	<text id="title_text_1_" transform="matrix(1 0 0 1 125 150)" font-family="'Arial-BoldMT'" font-size="54">MOE SERIFU AGENT</text>
+	<text transform="matrix(1 0 0 1 137.5 187.5)" font-family="'MyriadPro-It'" font-size="22">A digital friend in your home</text>
 </g>
 <g id="Social_Links_1_">
 	<g id="Paper">
