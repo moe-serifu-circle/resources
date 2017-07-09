@@ -1830,7 +1830,7 @@ AAAAAAAA4Fv8jwADAB6sLgUnFrbnAAAAAElFTkSuQmCC" transform="matrix(0.24 0 0 0.24 50
 		293.75,399.998 290.625,396.875 109.375,396.875 	"/>
 	<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M312.5,350h-225c-9.375,0-12.5,3.125-12.5,12.5c0,0,0,0,0,37.5
 		h250v-37.5C325,353.125,321.875,350,312.5,350z"/>
-	<text transform="matrix(1 0 0 1 103.124 384.374)" font-family="'Verdana'" font-size="22">2D Comes to Life</text>
+	<text transform="matrix(1 0 0 1 137.5 384.375)" font-family="'Verdana'" font-size="22">Automation</text>
 	<g id="Circuitry">
 		<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="140.625,625 125,637.5 87.5,637.5 		"/>
 		<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="84.375" cy="637.5" r="3.125"/>
@@ -1887,7 +1887,7 @@ AAAAAAAA4Fv8jwADAB6sLgUnFrbnAAAAAElFTkSuQmCC" transform="matrix(0.24 0 0 0.24 50
 		</g>
 	</g>
 	<text id="title_text_1_" transform="matrix(1 0 0 1 125 150)" font-family="'Arial-BoldMT'" font-size="54">MOE SERIFU AGENT</text>
-	<text transform="matrix(1 0 0 1 137.5 187.5)" font-family="'MyriadPro-It'" font-size="22">A digital friend in your home</text>
+	<text transform="matrix(1 0 0 1 137.5 187.5)" font-family="'MyriadPro-It'" font-size="22">A digital character in your home</text>
 </g>
 <g id="Social_Links_1_">
 	<g id="Paper">
