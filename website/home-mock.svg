@@ -7603,7 +7603,13 @@ y/Gk/laEzQAAAABJRU5ErkJggg==" transform="matrix(0.3645 0 0 0.3645 -0.5039 -84.37
 </g>
 <g id="Content">
 	<g>
-		<rect x="96.875" y="225" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="756.25" height="887.5"/>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="96.875" y1="668.75" x2="853.125" y2="668.75">
+			<stop  offset="0" style="stop-color:#59595C"/>
+			<stop  offset="0.005" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.995" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#59595C"/>
+		</linearGradient>
+		<rect x="96.875" y="225" fill="url(#SVGID_1_)" stroke="#000000" stroke-miterlimit="10" width="756.25" height="887.5"/>
 		<rect x="100" y="225" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="750" height="887.5"/>
 	</g>
 	<g id="title_text">
@@ -7613,7 +7619,11 @@ y/Gk/laEzQAAAABJRU5ErkJggg==" transform="matrix(0.3645 0 0 0.3645 -0.5039 -84.37
 <g id="Footer">
 	<g id="Background">
 		<rect x="100" y="1078.125" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="750" height="34.375"/>
-		<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M831.25,1075h-3.125v37.5h-706.25V1075h-3.125
+		<radialGradient id="SVGID_2_" cx="475" cy="1128.125" r="272.1891" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#59595C"/>
+		</radialGradient>
+		<path fill="url(#SVGID_2_)" stroke="#000000" stroke-miterlimit="10" d="M831.25,1075h-3.125v37.5h-706.25V1075h-3.125
 			c-3.125,15.625-9.375,28.125-25,34.375V1150c0,18.75,12.5,31.25,31.25,31.25h700c18.75,0,31.25-12.5,31.25-31.25v-40.625
 			C840.625,1103.125,834.375,1090.625,831.25,1075z"/>
 		<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M100,1112.5c12.5-6.25,18.75-25,18.75-37.5h712.5
@@ -9427,8 +9437,13 @@ AAAAAAAA4Fv8jwADAB6sLgUnFrbnAAAAAElFTkSuQmCC" transform="matrix(0.24 0 0 0.24 50
 </g>
 <g id="Header">
 	<g id="Title_Main">
-		<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M93.75,228.125V100c0-18.75,12.5-31.25,31.25-31.25h700
-			c18.75,0,31.25,12.5,31.25,31.25v128.125H93.75z"/>
+		<radialGradient id="SVGID_3_" cx="475" cy="148.4375" r="275.4103" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#59595C"/>
+		</radialGradient>
+		<path fill="url(#SVGID_3_)" stroke="#000000" stroke-miterlimit="10" d="M93.75,228.125V100c0-18.75,12.5-31.25,31.25-31.25h700
+			c18.75,0,31.25,12.5,31.25,31.25v128.125h-9.375V100c0-12.5-9.375-21.875-21.875-21.875H125c-12.5,0-21.875,9.375-21.875,21.875
+			l0,128.125H93.75z"/>
 		<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M100,228.125V100c0-15.625,9.375-25,25-25h700
 			c15.625,0,25,9.375,25,25v128.125H100z"/>
 	</g>
@@ -9436,10 +9451,18 @@ AAAAAAAA4Fv8jwADAB6sLgUnFrbnAAAAAElFTkSuQmCC" transform="matrix(0.24 0 0 0.24 50
 		<g id="Navbar_Back">
 			<g>
 				<rect x="100" y="225" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="750" height="34.375"/>
-				<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M831.25,262.5c3.125-15.625,9.375-28.125,25-34.375V225H850
-					l-21.875,3.125V262.5H831.25z"/>
-				<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M118.75,262.5c-3.125-15.625-9.375-28.125-25-34.375V225H100
-					l21.875,3.125V262.5H118.75z"/>
+				<radialGradient id="SVGID_4_" cx="842.1875" cy="243.75" r="16.5728" gradientUnits="userSpaceOnUse">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#59595C"/>
+				</radialGradient>
+				<path fill="url(#SVGID_4_)" stroke="#000000" stroke-miterlimit="10" d="M831.25,262.5c3.125-15.625,9.375-28.125,25-34.375V225
+					H850l-21.875,3.125V262.5H831.25z"/>
+				<radialGradient id="SVGID_5_" cx="107.8125" cy="243.75" r="16.5728" gradientUnits="userSpaceOnUse">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#59595C"/>
+				</radialGradient>
+				<path fill="url(#SVGID_5_)" stroke="#000000" stroke-miterlimit="10" d="M118.75,262.5c-3.125-15.625-9.375-28.125-25-34.375
+					V225H100l21.875,3.125V262.5H118.75z"/>
 				<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M100,225c12.5,6.25,18.75,25,18.75,37.5h712.5
 					c0-12.5,6.25-31.25,18.75-37.5H100z"/>
 			</g>
