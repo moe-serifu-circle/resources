@@ -1,0 +1,11 @@
+DATE				EXPENSE			RECIPIENT							DESCRIPTION
+May 8, 2017			50.00			Angelo Flores (rebwasartist)		Flat prepayment for Masa-chan design
+May 25, 2017		180.00			Angelo Flores (rebwasartist)		12 hours of work @15/hr on character design and reference sheet
+May 25, 2017		20.00			Angelo Flores (rebwasartist)		Completion of extra-contract character reference sheet
+June 9, 2017		90.00			Angelo Flores (rebwasartist)		6 hours of work @15/hr on "Chibi" rendering of Masa-chan
+June 9, 2017		25.00			Angelo Flores (rebwasartist)		Completion of "Chibi" rendering of Masa-chan
+June 27, 2017		135.00			Angelo Flores (rebwasartist)		8 hours of work @15/hr on "V-Sign" rendering of Masa-chan
+June 27, 2017		25.00			Angelo Flores (rebwasartist)		Completion of "V-Sign" rendering of Masa-chan
+July 12, 2017		14.88			Namecheap.com						ICANN registration fee for "moeserifu.moe"
+July 12, 2017		10.69			Namecheap.com						ICANN registration fee for "moeserifu.com"
+July 12, 2017		15.00			Rachel Franzen						Flat prepayment for Masa-chan website watercolors
