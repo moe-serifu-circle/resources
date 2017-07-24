@@ -8,3 +8,7 @@ July 18th, 2017			00:30			Website banner org; screws
 July 18th, 2017			00:30			Messing with colors of tweet/news panel
 July 19th, 2017			00:30			Added colors to tweet/news arms
 July 20th, 2017			00:45			Website mock center panels and clipart touchup
+July 21st, 2017			00:30			Center panels text
+July 22nd, 2017			03:00			Setting up website source and deploy repos; learning Hugo
+July 23rd, 2017			04:00			Hugo deploy script
+July 24th, 2017			6:05-			
