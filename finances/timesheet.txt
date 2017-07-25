@@ -11,4 +11,5 @@ July 20th, 2017			00:45			Website mock center panels and clipart touchup
 July 21st, 2017			00:30			Center panels text
 July 22nd, 2017			03:00			Setting up website source and deploy repos; learning Hugo
 July 23rd, 2017			04:00			Hugo deploy script
-July 24th, 2017			01:30			First website skeleton			
+July 24th, 2017			01:30			First website skeleton
+July 25th, 2017			01:45			Website main layout; center content divs
