@@ -15,3 +15,4 @@ July 24th, 2017			01:30			First website skeleton
 July 25th, 2017			01:45			Website main layout; center content divs
 July 26th, 2017			00:45			Added about page and fixed broken site image
 July 27th, 2017			01:30			Website styling header
+July 28th, 2017			01:30			Website layout of footer
