@@ -16,3 +16,6 @@ July 25th, 2017			01:45			Website main layout; center content divs
 July 26th, 2017			00:45			Added about page and fixed broken site image
 July 27th, 2017			01:30			Website styling header
 July 28th, 2017			01:30			Website layout of footer
+July 29th, 2017			03:00			Website layout/styling
+July 30th, 2017			02:00			Pesky website header/footers
+Aug 29th, 2017			00:45			Website header/footers
