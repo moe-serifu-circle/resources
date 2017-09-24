@@ -1,4 +1,4 @@
-Current personal hourly value: $20/hr
+Starting personal hourly value: $20/hr
 
 DATE					TIME			DESCRIPTION
 July 17th, 2017		 	00:30			Website mock banner colors
@@ -19,3 +19,9 @@ July 28th, 2017			01:30			Website layout of footer
 July 29th, 2017			03:00			Website layout/styling
 July 30th, 2017			02:00			Pesky website header/footers
 Aug 29th, 2017			00:45			Website header/footers
+Sept 14th, 2017			04:00			Footer re-design
+Sept 15th, 2017			06:00			Re-plan and implementation of new header/footer
+Sept 16th, 2017			08:00			Completed initial header/footer
+---------------
+Sept 18th, 2017			--:--			New Hourly Value: $33.65/hr
+---------------
