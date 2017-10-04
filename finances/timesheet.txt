@@ -25,3 +25,6 @@ Sept 16th, 2017			08:00			Completed initial header/footer
 ---------------
 Sept 18th, 2017			--:--			New Hourly Value: $33.65/hr
 ---------------
+Sept 24th, 2017			08:00			Work on panels
+Sept 30th, 2017			02:00			Adjust panel graphics
+Oct 3rd, 2017			02:30			Creating social links graphics
