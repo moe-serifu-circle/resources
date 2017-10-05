@@ -1,31 +1,33 @@
 Starting personal hourly value: $20/hr
 
-DATE					TIME			DESCRIPTION
-July 17th, 2017		 	00:30			Website mock banner colors
-July 17th, 2017			00:30			Finance consolidation
-July 17th, 2017			02:30			Website banner color gradients
-July 18th, 2017			00:30			Website banner org; screws
-July 18th, 2017			00:30			Messing with colors of tweet/news panel
-July 19th, 2017			00:30			Added colors to tweet/news arms
-July 20th, 2017			00:45			Website mock center panels and clipart touchup
-July 21st, 2017			00:30			Center panels text
-July 22nd, 2017			03:00			Setting up website source and deploy repos; learning Hugo
-July 23rd, 2017			04:00			Hugo deploy script
-July 24th, 2017			01:30			First website skeleton
-July 25th, 2017			01:45			Website main layout; center content divs
-July 26th, 2017			00:45			Added about page and fixed broken site image
-July 27th, 2017			01:30			Website styling header
-July 28th, 2017			01:30			Website layout of footer
-July 29th, 2017			03:00			Website layout/styling
-July 30th, 2017			02:00			Pesky website header/footers
-Aug 29th, 2017			00:45			Website header/footers
-Sept 14th, 2017			04:00			Footer re-design
-Sept 15th, 2017			06:00			Re-plan and implementation of new header/footer
-Sept 16th, 2017			08:00			Completed initial header/footer
+DATE					TIME		BUCKET			DESCRIPTION
+July 17th, 2017		 	00:30		Website			Website mock banner colors
+July 17th, 2017			00:30		Administration	Finance consolidation
+July 17th, 2017			02:30		Website			Website banner color gradients
+July 18th, 2017			00:30		Website			Website banner org; screws
+July 18th, 2017			00:30		Website			Messing with colors of tweet/news panel
+July 19th, 2017			00:30		Website			Added colors to tweet/news arms
+July 20th, 2017			00:45		Website			Website mock center panels and clipart touchup
+July 21st, 2017			00:30		Website			Center panels text
+July 22nd, 2017			03:00		Website			Setting up website source and deploy repos; learning Hugo
+July 23rd, 2017			04:00		Website			Hugo deploy script
+July 24th, 2017			01:30		Website			First website skeleton
+July 25th, 2017			01:45		Website			Website main layout; center content divs
+July 26th, 2017			00:45		Website			Added about page and fixed broken site image
+July 27th, 2017			01:30		Website			Website styling header
+July 28th, 2017			01:30		Website			Website layout of footer
+July 29th, 2017			03:00		Website			Website layout/styling
+July 30th, 2017			02:00		Website			Pesky website header/footers
+Aug 29th, 2017			00:45		Website			Website header/footers
+Sept 14th, 2017			04:00		Website			Footer re-design
+Sept 15th, 2017			06:00		Website			Re-plan and implementation of new header/footer
+Sept 16th, 2017			08:00		Website			Completed initial header/footer
 ---------------
-Sept 18th, 2017			--:--			New Hourly Value: $33.65/hr
+Sept 18th, 2017			--:--		--				New Hourly Value: $33.65/hr
 ---------------
-Sept 24th, 2017			08:00			Work on panels
-Sept 30th, 2017			02:00			Adjust panel graphics
-Oct 3rd, 2017			02:30			Creating social links graphics
-Oct 4th, 2017			01:00			Social links styling on website
+Sept 24th, 2017			08:00		Website			Work on panels
+Sept 30th, 2017			02:00		Website			Adjust panel graphics
+Oct 3rd, 2017			02:30		Website			Creating social links graphics
+Oct 4th, 2017			01:00		Website			Social links styling on website
+Oct 4th, 2017			02:30		Website			Social links styling; header tweaking
+Oct 5th, 2017			00:30		Website			Header font/display tweaks
