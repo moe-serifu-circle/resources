@@ -32,3 +32,5 @@ Oct 4th, 2017			01:00		Website			Social links styling on website
 Oct 4th, 2017			02:30		Website			Social links styling; header tweaking
 Oct 5th, 2017			00:30		Website			Header font/display tweaks
 Oct 9th, 2017			00:30		Website			Attachement arm/anchor design elements
+
+All future data is located and maintained in Google Drive: https://drive.google.com/drive/folders/0B9Wy0oSoY8zudGVDSTVNYWdqNUk?usp=sharing
